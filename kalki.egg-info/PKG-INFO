@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: kalki
+Version: 0.1
+Summary: Kalki is a library to create dynamic CSS
+Home-page: https://github.com/biswajitbimoli/kalki
+Author: Biswajit Bimoli
+Author-email: biswajitbimoli@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT
+Classifier: Programming Language :: Python
+Classifier: Topic :: Software Development :: Libraries
+License-File: LICENSE
+
+UNKNOWN
+
