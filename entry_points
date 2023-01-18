@@ -1,0 +1,2 @@
+[console_scripts]
+kalki = kalki.bin.kalki:main

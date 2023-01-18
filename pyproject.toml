@@ -1,0 +1,23 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "kalki"
+version = "0.0.1"
+authors = [
+  { name="Biswajit Bimoli", email="biswajitbimolisrx@gmail.com" },
+]
+description = "Kalki a small library to create dynamic CSS"
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+entry_points = {'console_scripts' = ['kalki = kalki.bin.kalki:main']}
+
+[project.urls]
+"Homepage" = "https://github.com/biswajitbimoli/kalki"
+"Bug Tracker" = "https://github.com/biswajitbimoli/kalki"
