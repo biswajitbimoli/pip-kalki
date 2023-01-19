@@ -1,2 +1,2 @@
-include kalki.exe
-include kalki
+#include LICENSE
+#include README.md

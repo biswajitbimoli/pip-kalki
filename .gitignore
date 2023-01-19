@@ -1,0 +1,7 @@
+bin/__pycache__
+kalki/__pycache__
+kalki/minify/__pycache__
+kalki/services/__pycache__
+kalki/startapps/__pycache__
+kalki.egg-info/
+kalki/kalki.egg-info
