@@ -6,12 +6,12 @@ long_description = (this_directory / "README.md").read_text() +"\n\n\n"+ (this_d
 
 setup(
     name="kalki",
-    version="0.1.6",
+    version="0.1.8",
     description="Kalki is a library to create dynamic CSS",
     long_description=long_description,
     long_description_content_type='text/markdown',
     author="Biswajit Bimoli",
-    packages=['kalki'],
+    packages=['kalki', 'bin', 'kalki.minify', 'kalki.services', 'kalki.startapps'],
     readme = "README.md",
     author_email='biswajitbimoli@gmail.com',
     url='https://github.com/biswajitbimoli/kalki',
